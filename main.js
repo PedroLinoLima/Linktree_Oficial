@@ -31,18 +31,6 @@ const links = {
         {
             "titulo": "calculadora",
             "url": "https://pedrolinolima.github.io/Calculadora_JS/"
-        },
-        {
-            "titulo": "lâmpada",
-            "url": "https://pedrolinolima.github.io/Lampada.js/"
-        },
-        {
-            "titulo": "semáforo",
-            "url": "https://pedrolinolima.github.io/Semaforo.js/"
-        },
-        {
-            "titulo": "todo-list",
-            "url": "https://pedrolinolima.github.io/todo-list/"
         }
     ]
 }
