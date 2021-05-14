@@ -27,6 +27,10 @@ const links = {
         {
             "titulo": "twitter",
             "url": "https://twitter.com/PedroLinodeLim1"
+        },
+        {
+            "titulo": "calculadora",
+            "url": "https://pedrolinolima.github.io/Calculadora_JS/"
         }
     ]
 }
